@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Name: 
+  possible_students: 1
+  real_stuents: 1
+  course_id: 1
+
+two:
+  Name: 
+  possible_students: 1
+  real_stuents: 1
+  course_id: 1

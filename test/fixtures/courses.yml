@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Name: 
+  group_number: 1
+  start_date: 2015-11-05 01:03:27
+  end_date: MyString
+  datetime: MyString
+
+two:
+  Name: 
+  group_number: 1
+  start_date: 2015-11-05 01:03:27
+  end_date: MyString
+  datetime: MyString
